@@ -27,7 +27,7 @@ BOT_TOKEN      = "8643640643:AAG2Yc5lhHElS-FcFpeQrtejsEtg-ci1QWQ"
 OWNER_IDS      = [8384623013]
 ADMIN_IDS      = OWNER_IDS.copy()
 
-OTP_GROUP_LINK = "https://t.me/+XPG8DEFTSU81YTU0"
+OTP_GROUP_LINK = "https://t.me/fahdii_x_huse_otp_group"
 BOT_NAME       = "Mr ARAIN"
 
 # No verification required - users can directly use the bot
